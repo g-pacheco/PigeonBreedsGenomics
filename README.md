@@ -6,6 +6,6 @@
 ***
 ***
 
-#### Purebread fancy pigeon individual belonging to the _Exhibition Fantail_ breed.
+#### Purebread fancy pigeon individual belonging to the _English Carrier_ breed.
 ![](https://github.com/layka-pacheco/PigeonBreedsGenomics/blob/main/PBG--Pipeline/PBG--GitHubAuxiliaryFiles/PBG--RepositoryImage.jpg)
 ###### Photo by [Hein Van Grouw](https://www.nhm.ac.uk/our-science/departments-and-staff/staff-directory/hein-van%20grouw.html).
