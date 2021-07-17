@@ -1,6 +1,6 @@
 # _Pigeon Breeds Genomics_
 
-#### Code repository for analyses conducted in [Pacheco et al. (2020)](https://academic.oup.com/gbe/article/12/3/136/5735467).
+> #### Code repository for analyses conducted in [Pacheco et al. (2020)](https://academic.oup.com/gbe/article/12/3/136/5735467).
 
 - Please visit the [Wiki page](https://github.com/layka-pacheco/PigeonBreedsGenomics/wiki) for detailed information on the individual analyses.
 ***
