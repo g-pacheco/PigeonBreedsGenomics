@@ -1,6 +1,6 @@
 ### The BEGINNING ~~~~~
 ##
-# > Plots FPG--MDS | First written by Martin SIKORA with later modifications by Filipe G. Vieira.
+# > Plots PBG--MDS | First written by Martin SIKORA with later modifications by Filipe G. Vieira.
 
 
 #################################################################################
