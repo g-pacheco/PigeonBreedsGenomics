@@ -1,0 +1,211 @@
+Sample_ID	Breeds	NPA_Group	Shape
+Archangel_01-WGS	Archangel	Color	1
+Archangel_02-GBS	Archangel	Color	1
+Archangel_03-GBS	Archangel	Color	1
+Archangel_04-GBS	Archangel	Color	1
+Archangel_05-GBS	Archangel	Color	1
+IcePigeon_01-WGS	Ice Pigeon	Color	1
+SaxonMonk_01-WGS	Saxon Monk	Color	1
+Starling_01-WGS	Starling	Color	1
+Starling_02-GBS	Starling	Color	1
+Starling_03-GBS	Starling	Color	1
+Starling_04-GBS	Starling	Color	1
+Starling_05-GBS	Starling	Color	1
+ThuringerCleanLeg_01-GBS	Thuringer Clean Leg	Color	1
+EnglishPouter_01-WGS	English Pouter	Croppers & Pouters	8
+HolleCropper_01-GBS	Holle Cropper	Croppers & Pouters	8
+HolleCropper_02-GBS	Holle Cropper	Croppers & Pouters	8
+HorsemanPouter_01-GBS	Horseman Pouter	Croppers & Pouters	8
+MarcheneroPouter_01-WGS	Marchenero Pouter	Croppers & Pouters	8
+PomeranianPouter_01-GBS	Pomeranian Pouter	Croppers & Pouters	8
+PomeranianPouter_02-GBS	Pomeranian Pouter	Croppers & Pouters	8
+PygmyPouter_01-GBS	Pygmy Pouter	Croppers & Pouters	8
+SaxonPouter_01-WGS	Saxon Pouter	Croppers & Pouters	8
+VoorburgShieldCropper_01-GBS	Voorburg Shield Cropper	Croppers & Pouters	8
+VoorburgShieldCropper_02-GBS	Voorburg Shield Cropper	Croppers & Pouters	8
+VoorburgShieldCropper_03-GBS	Voorburg Shield Cropper	Croppers & Pouters	8
+AmericanGiantHomer_01-GBS	American Giant Homer	Form	3
+AmericanShowRacer_01-GBS	American Show Racer	Form	3
+AmericanShowRacer_02-GBS	American Show Racer	Form	3
+AmericanShowRacer_03-GBS	American Show Racer	Form	3
+AmericanShowRacer_04-GBS	American Show Racer	Form	3
+Carneau_01-WGS	Carneau	Form	3
+EgyptianSwift_01-WGS	Egyptian Swift	Form	3
+King_01-WGS	King	Form	3
+King_02-GBS	King	Form	3
+King_03-GBS	King	Form	3
+Lahore_01-WGS	Lahore	Form	3
+Lahore_02-GBS	Lahore	Form	3
+Maltese_01-GBS	Maltese	Form	3
+PolishLynx_01-GBS	Polish Lynx	Form	3
+RacingHomer_01-WGS	Racing Homer	Form	3
+RacingHomer_02-WGS	Racing Homer	Form	3
+RacingHomer_03-GBS	Racing Homer	Form	3
+RacingHomer_04-WGS	Racing Homer	Form	3
+RacingHomer_05-WGS	Racing Homer	Form	3
+RacingHomer_06-WGS	Racing Homer	Form	3
+RacingHomer_07-WGS	Racing Homer	Form	3
+RacingHomer_08-WGS	Racing Homer	Form	3
+RacingHomer_09-WGS	Racing Homer	Form	3
+RacingHomer_10-WGS	Racing Homer	Form	3
+RacingHomer_11-WGS	Racing Homer	Form	3
+Runt_01-WGS	Runt	Form	3
+ShowTypeHomer_01-GBS	Show Type Homer	Form	3
+ShowTypeHomer_02-GBS	Show Type Homer	Form	3
+ShowTypeHomer_03-GBS	Show Type Homer	Form	3
+BackaTumbler_01-GBS	Backa Tumbler	Non-NPA Breed	20
+BirminghamRoller_01-WGS	Birmingham Roller	Non-NPA Breed	20
+BirminghamRoller_02-GBS	Birmingham Roller	Non-NPA Breed	20
+BirminghamRoller_03-GBS	Birmingham Roller	Non-NPA Breed	20
+BirminghamRoller_04-GBS	Birmingham Roller	Non-NPA Breed	20
+BirminghamRoller_05-GBS	Birmingham Roller	Non-NPA Breed	20
+BirminghamRoller_06-GBS	Birmingham Roller	Non-NPA Breed	20
+BirminghamRoller_07-GBS	Birmingham Roller	Non-NPA Breed	20
+BirminghamRoller_08-GBS	Birmingham Roller	Non-NPA Breed	20
+BirminghamRoller_09-GBS	Birmingham Roller	Non-NPA Breed	20
+BirminghamRoller_10-GBS	Birmingham Roller	Non-NPA Breed	20
+BirminghamRoller_11-GBS	Birmingham Roller	Non-NPA Breed	20
+CaliforniaColorPigeon_01-GBS	California Color Pigeon	Non-NPA Breed	20
+FeralUT_01-WGS	Ferals	Non-NPA Breed	20
+FeralVA_01-WGS	Ferals	Non-NPA Breed	20
+IranianTumbler_01-WGS	Iranian Tumbler	Non-NPA Breed	20
+IranianTumbler_02-GBS	Iranian Tumbler	Non-NPA Breed	20
+MindianFantail_02-GBS	Mindian Fantail	Non-NPA Breed	20
+MindianFantail_03-GBS	Mindian Fantail	Non-NPA Breed	20
+SaxonFairySwallow_01-GBS	Saxon Fairy Swallow	Non-NPA Breed	20
+AfricanOwl_01-WGS	African Owl	Owls & Frills	10
+AfricanOwl_02-GBS	African Owl	Owls & Frills	10
+ItalianOwl_01-GBS	Italian Owl	Owls & Frills	10
+ItalianOwl_02-GBS	Italian Owl	Owls & Frills	10
+ItalianOwl_03-GBS	Italian Owl	Owls & Frills	10
+OldGermanOwl_01-GBS	Old German Owl	Owls & Frills	10
+OldGermanOwl_02-GBS	Old German Owl	Owls & Frills	10
+OldGermanOwl_03-GBS	Old German Owl	Owls & Frills	10
+OrientalFrill_01-WGS	Oriental Frill	Owls & Frills	10
+ChineseOwl_01-WGS	Chinese Owl	Structure	5
+ChineseOwl_02-GBS	Chinese Owl	Structure	5
+ChineseOwl_03-GBS	Chinese Owl	Structure	5
+ChineseOwl_04-GBS	Chinese Owl	Structure	5
+ChineseOwl_05-GBS	Chinese Owl	Structure	5
+ChineseOwl_06-GBS	Chinese Owl	Structure	5
+ChineseOwl_07-GBS	Chinese Owl	Structure	5
+ChineseOwl_08-GBS	Chinese Owl	Structure	5
+ChineseOwl_09-GBS	Chinese Owl	Structure	5
+ChineseOwl_10-GBS	Chinese Owl	Structure	5
+ChineseOwl_11-GBS	Chinese Owl	Structure	5
+ChineseOwl_12-GBS	Chinese Owl	Structure	5
+Fantail_01-WGS	Fantail	Structure	5
+Fantail_02-GBS	Fantail	Structure	5
+Fantail_03-GBS	Fantail	Structure	5
+Fantail_04-GBS	Fantail	Structure	5
+Fantail_05-GBS	Fantail	Structure	5
+Fantail_06-GBS	Fantail	Structure	5
+Fantail_07-GBS	Fantail	Structure	5
+Fantail_08-GBS	Fantail	Structure	5
+Fantail_09-GBS	Fantail	Structure	5
+Fantail_10-GBS	Fantail	Structure	5
+Fantail_11-GBS	Fantail	Structure	5
+Fantail_12-GBS	Fantail	Structure	5
+Fantail_13-GBS	Fantail	Structure	5
+Fantail_14-GBS	Fantail	Structure	5
+Fantail_15-GBS	Fantail	Structure	5
+Fantail_16-GBS	Fantail	Structure	5
+Frillback_01-WGS	Frillback	Structure	5
+Frillback_02-GBS	Frillback	Structure	5
+IndianFantail_01-WGS	Indian Fantail	Structure	5
+IndianFantail_02-WGS	Indian Fantail	Structure	5
+IndianFantail_03-GBS	Indian Fantail	Structure	5
+IndianFantail_04-GBS	Indian Fantail	Structure	5
+IndianFantail_05-GBS	Indian Fantail	Structure	5
+IndianFantail_06-GBS	Indian Fantail	Structure	5
+IndianFantail_07-GBS	Indian Fantail	Structure	5
+IndianFantail_08-GBS	Indian Fantail	Structure	5
+IndianFantail_09-GBS	Indian Fantail	Structure	5
+IndianFantail_10-GBS	Indian Fantail	Structure	5
+IndianFantail_11-GBS	Indian Fantail	Structure	5
+IndianFantail_12-GBS	Indian Fantail	Structure	5
+IndianFantail_13-GBS	Indian Fantail	Structure	5
+IndianFantail_14-GBS	Indian Fantail	Structure	5
+IndianFantail_15-GBS	Indian Fantail	Structure	5
+IndianFantail_16-GBS	Indian Fantail	Structure	5
+IndianFantail_17-GBS	Indian Fantail	Structure	5
+IndianFantail_18-GBS	Indian Fantail	Structure	5
+IndianFantail_19-GBS	Indian Fantail	Structure	5
+IndianFantail_20-GBS	Indian Fantail	Structure	5
+Jacobin_01-WGS	Jacobin	Structure	5
+Jacobin_02-GBS	Jacobin	Structure	5
+Jacobin_03-GBS	Jacobin	Structure	5
+OldDutchCapuchine_01-GBS	Old Dutch Capuchine	Structure	5
+OldDutchCapuchine_02-GBS	Old Dutch Capuchine	Structure	5
+OldDutchCapuchine_03-GBS	Old Dutch Capuchine	Structure	5
+OldDutchCapuchine_04-GBS	Old Dutch Capuchine	Structure	5
+SchmalkaldenerMohrenkopf_01-GBS	Schmalkaldener Mohrenkopf	Structure	5
+Lebanon_01-WGS	Lebanon	Syrian	2
+Lebanon_02-GBS	Lebanon	Syrian	2
+Shakhsharli_01-WGS	Shakhsharli	Syrian	2
+SyrianDewlap_01-WGS	Syrian Dewlap	Syrian	2
+AltenburgTrumpeter_01-GBS	Altenburg Trumpeter	Trumpeter	14
+EnglishTrumpeter_01-WGS	English Trumpeter	Trumpeter	14
+EnglishTrumpeter_02-GBS	English Trumpeter	Trumpeter	14
+EnglishTrumpeter_03-GBS	English Trumpeter	Trumpeter	14
+EnglishTrumpeter_04-GBS	English Trumpeter	Trumpeter	14
+EnglishTrumpeter_05-GBS	English Trumpeter	Trumpeter	14
+EnglishTrumpeter_07-GBS	English Trumpeter	Trumpeter	14
+EnglishTrumpeter_08-GBS	English Trumpeter	Trumpeter	14
+EnglishTrumpeter_09-GBS	English Trumpeter	Trumpeter	14
+Laugher_01-WGS	Laugher	Trumpeter	14
+AmericanFlyingTumbler_01-GBS	American Flying Tumbler	Tumblers, Rollers & Flyers	0
+AncientTumbler_01-GBS	Ancient Tumbler	Tumblers, Rollers & Flyers	0
+BerlinLongFacedTumbler_01-WGS	Berlin Long-faced Tumbler	Tumblers, Rollers & Flyers	0
+BerlinLongFacedTumbler_02-GBS	Berlin Long-faced Tumbler	Tumblers, Rollers & Flyers	0
+BudapestTumbler_01-GBS	Budapest Tumbler	Tumblers, Rollers & Flyers	0
+BudapestTumbler_02-GBS	Budapest Tumbler	Tumblers, Rollers & Flyers	0
+CatalonianTumbler_01-GBS	Catalonian Tumbler	Tumblers, Rollers & Flyers	0
+Cumulet_01-WGS	Cumulet	Tumblers, Rollers & Flyers	0
+Cumulet_02-GBS	Cumulet	Tumblers, Rollers & Flyers	0
+Cumulet_03-GBS	Cumulet	Tumblers, Rollers & Flyers	0
+DanishTumbler_01-WGS	Danish Tumbler	Tumblers, Rollers & Flyers	0
+DanishTumbler_02-GBS	Danish Tumbler	Tumblers, Rollers & Flyers	0
+EnglishLongFacedTumbler_01-WGS	English Long-faced Tumbler	Tumblers, Rollers & Flyers	0
+HelmetMediumFacedCrested_01-GBS	Helmet Medium-faced Crested	Tumblers, Rollers & Flyers	12
+HelmetMediumFacedCrested_02-GBS	Helmet Medium-faced Crested	Tumblers, Rollers & Flyers	12
+HelmetMediumFacedCrested_03-GBS	Helmet Medium-faced Crested	Tumblers, Rollers & Flyers	12
+HelmetMediumFacedCrested_04-GBS	Helmet Medium-faced Crested	Tumblers, Rollers & Flyers	12
+HelmetMediumFacedCrested_05-GBS	Helmet Medium-faced Crested	Tumblers, Rollers & Flyers	12
+HelmetMediumFacedCrested_06-GBS	Helmet Medium-faced Crested	Tumblers, Rollers & Flyers	12
+Mookee_01-WGS	Mookee	Tumblers, Rollers & Flyers	12
+Mookee_02-GBS	Mookee	Tumblers, Rollers & Flyers	12
+Mookee_03-GBS	Mookee	Tumblers, Rollers & Flyers	12
+OrientalRoller_01-WGS	Oriental Roller	Tumblers, Rollers & Flyers	12
+OrientalRoller_02-GBS	Oriental Roller	Tumblers, Rollers & Flyers	12
+OrientalRoller_03-GBS	Oriental Roller	Tumblers, Rollers & Flyers	12
+OrientalRoller_04-GBS	Oriental Roller	Tumblers, Rollers & Flyers	12
+OrientalRoller_05-GBS	Oriental Roller	Tumblers, Rollers & Flyers	12
+OrientalRoller_06-GBS	Oriental Roller	Tumblers, Rollers & Flyers	12
+OrientalRoller_07-GBS	Oriental Roller	Tumblers, Rollers & Flyers	12
+ParlorRoller_01-WGS	Parlor Roller	Tumblers, Rollers & Flyers	12
+ParlorRoller_02-GBS	Parlor Roller	Tumblers, Rollers & Flyers	12
+ParlorRoller_04-GBS	Parlor Roller	Tumblers, Rollers & Flyers	12
+PortugueseTumbler_01-GBS	Portuguese Tumbler	Tumblers, Rollers & Flyers	12
+PortugueseTumbler_02-GBS	Portuguese Tumbler	Tumblers, Rollers & Flyers	12
+PortugueseTumbler_03-GBS	Portuguese Tumbler	Tumblers, Rollers & Flyers	12
+TemescheburgerSchecken_01-GBS	Temescheburger Schecken	Tumblers, Rollers & Flyers	12
+WestofEnglandTumbler_01-GBS	West of England Tumbler	Tumblers, Rollers & Flyers	12
+WestofEnglandTumbler_02-GBS	West of England Tumbler	Tumblers, Rollers & Flyers	12
+WestofEnglandTumbler_03-GBS	West of England Tumbler	Tumblers, Rollers & Flyers	12
+WestofEnglandTumbler_04-GBS	West of England Tumbler	Tumblers, Rollers & Flyers	12
+WestofEnglandTumbler_05-GBS	West of England Tumbler	Tumblers, Rollers & Flyers	12
+WestofEnglandTumbler_06-GBS	West of England Tumbler	Tumblers, Rollers & Flyers	12
+WestofEnglandTumbler_07-GBS	West of England Tumbler	Tumblers, Rollers & Flyers	12
+WestofEnglandTumbler_08-GBS	West of England Tumbler	Tumblers, Rollers & Flyers	12
+Barb_01-GBS	Barb	Wattle	4
+Dragoon_01-GBS	Dragoon	Wattle	4
+EnglishCarrier_01-WGS	English Carrier	Wattle	4
+EnglishCarrier_02-GBS	English Carrier	Wattle	4
+EnglishCarrier_03-GBS	English Carrier	Wattle	4
+EnglishCarrier_04-GBS	English Carrier	Wattle	4
+EnglishCarrier_05-GBS	English Carrier	Wattle	4
+EnglishCarrier_06-GBS	English Carrier	Wattle	4
+Scandaroon_01-WGS	Scandaroon	Wattle	4
+Scandaroon_02-GBS	Scandaroon	Wattle	4
+SpanishBarb_01-WGS	Spanish Barb	Wattle	4
