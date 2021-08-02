@@ -1,0 +1,211 @@
+African Owl_01-WGS	African Owl	Owls & Frills	0.130523
+African Owl_02-GBS	African Owl	Owls & Frills	0.177992
+Altenburg Trumpeter_01-GBS	Altenburg Trumpeter	Trumpeter	0.165341
+American Flying Tumbler_01-GBS	American Flying Tumbler	Tumblers, Rollers & High Flyers	0.140508
+American Giant Homer_01-GBS	American Giant Homer	Form	0.186712
+American Show Racer_01-GBS	American Show Racer	Form	0.126753
+American Show Racer_02-GBS	American Show Racer	Form	0.14234
+American Show Racer_03-GBS	American Show Racer	Form	0.150711
+American Show Racer_04-GBS	American Show Racer	Form	0.141967
+Ancient Tumbler_01-GBS	Ancient Tumbler	Tumblers, Rollers & High Flyers	0.14325
+Archangel_01-WGS	Archangel	Color	0.209096
+Archangel_02-GBS	Archangel	Color	0.22843
+Archangel_03-GBS	Archangel	Color	0.162508
+Archangel_04-GBS	Archangel	Color	0.217036
+Archangel_05-GBS	Archangel	Color	0.157723
+Backa Tumbler_01-GBS	Backa Tumbler	Non-NPA Breeds	0.150828
+Barb_01-GBS	Barb	Wattle	0.176821
+BerlinLongFacedTumbler_01-WGS	Berlin Long-faced Tumbler	Tumblers, Rollers & High Flyers	0.158719
+BerlinLongFacedTumbler_02-GBS	Berlin Long-faced Tumbler	Tumblers, Rollers & High Flyers	0.150213
+Birmingham Roller_01-WGS	Birmingham Roller	Non-NPA Breeds	0.160273
+Birmingham Roller_02-GBS	Birmingham Roller	Non-NPA Breeds	0.197796
+Birmingham Roller_03-GBS	Birmingham Roller	Non-NPA Breeds	0.17521
+Birmingham Roller_04-GBS	Birmingham Roller	Non-NPA Breeds	0.153497
+Birmingham Roller_05-GBS	Birmingham Roller	Non-NPA Breeds	0.16545
+Birmingham Roller_06-GBS	Birmingham Roller	Non-NPA Breeds	0.133434
+Birmingham Roller_07-GBS	Birmingham Roller	Non-NPA Breeds	0.157124
+Birmingham Roller_08-GBS	Birmingham Roller	Non-NPA Breeds	0.186147
+Birmingham Roller_09-GBS	Birmingham Roller	Non-NPA Breeds	0.18166
+Birmingham Roller_10-GBS	Birmingham Roller	Non-NPA Breeds	0.0935017
+Birmingham Roller_11-GBS	Birmingham Roller	Non-NPA Breeds	0.138589
+Budapest Tumbler_01-GBS	Budapest Tumbler	Tumblers, Rollers & High Flyers	0.175114
+Budapest Tumbler_02-GBS	Budapest Tumbler	Tumblers, Rollers & High Flyers	0.18275
+California ColorPigeon_01-GBS	California Color Pigeon	Non-NPA Breeds	0.121763
+Carneau_01-WGS	Carneau	Form	0.214174
+Catalonian Tumbler_01-GBS	Catalonian Tumbler	Tumblers, Rollers & High Flyers	0.134723
+Chinese Owl_01-WGS	Chinese Owl	Structure	0.116988
+Chinese Owl_02-GBS	Chinese Owl	Structure	0.142567
+Chinese Owl_03-GBS	Chinese Owl	Structure	0.173753
+Chinese Owl_04-GBS	Chinese Owl	Structure	0.158332
+Chinese Owl_05-GBS	Chinese Owl	Structure	0.152178
+Chinese Owl_06-GBS	Chinese Owl	Structure	0.162955
+Chinese Owl_07-GBS	Chinese Owl	Structure	0.125676
+Chinese Owl_08-GBS	Chinese Owl	Structure	0.143348
+Chinese Owl_09-GBS	Chinese Owl	Structure	0.12863
+Chinese Owl_10-GBS	Chinese Owl	Structure	0.158257
+Chinese Owl_11-GBS	Chinese Owl	Structure	0.124473
+Chinese Owl_12-GBS	Chinese Owl	Structure	0.143958
+Crupestris_01-WGS	C. rupestris	C. rupestris	0.135369
+Cumulet_01-WGS	Cumulet	Tumblers, Rollers & High Flyers	0.105231
+Cumulet_02-GBS	Cumulet	Tumblers, Rollers & High Flyers	0.108686
+Cumulet_03-GBS	Cumulet	Tumblers, Rollers & High Flyers	0.0841358
+DanishTumbler_01-WGS	Danish Tumbler	Tumblers, Rollers & High Flyers	0.105956
+DanishTumbler_02-GBS	Danish Tumbler	Tumblers, Rollers & High Flyers	0.165563
+Dragoon_01-GBS	Dragoon	Wattle	0.130198
+EgyptianSwift_01-WGS	Egyptian Swift	Form	0.123128
+EnglishCarrier_01-WGS	English Carrier	Wattle	0.112741
+EnglishCarrier_02-GBS	English Carrier	Wattle	0.222574
+EnglishCarrier_03-GBS	English Carrier	Wattle	0.155643
+EnglishCarrier_04-GBS	English Carrier	Wattle	0.141562
+EnglishCarrier_05-GBS	English Carrier	Wattle	0.125812
+EnglishCarrier_06-GBS	English Carrier	Wattle	0.138203
+EnglishLongFacedTumbler_01-WGS	English Long-faced Tumbler	Tumblers, Rollers & High Flyers	0.139748
+EnglishPouter_01-WGS	English Pouter	Croppers & Pouters	0.113551
+EnglishTrumpeter_01-WGS	English Trumpeter	Trumpeter	0.153314
+EnglishTrumpeter_02-GBS	English Trumpeter	Trumpeter	0.146168
+EnglishTrumpeter_03-GBS	English Trumpeter	Trumpeter	0.15597
+EnglishTrumpeter_04-GBS	English Trumpeter	Trumpeter	0.164363
+EnglishTrumpeter_05-GBS	English Trumpeter	Trumpeter	0.196184
+EnglishTrumpeter_07-GBS	English Trumpeter	Trumpeter	0.163101
+EnglishTrumpeter_08-GBS	English Trumpeter	Trumpeter	0.16027
+EnglishTrumpeter_09-GBS	English Trumpeter	Trumpeter	0.150004
+Fantail_01-WGS	Fantail	Structure	0.149633
+Fantail_02-GBS	Fantail	Structure	0.128
+Fantail_03-GBS	Fantail	Structure	0.134414
+Fantail_04-GBS	Fantail	Structure	0.143531
+Fantail_05-GBS	Fantail	Structure	0.140466
+Fantail_06-GBS	Fantail	Structure	0.0901772
+Fantail_07-GBS	Fantail	Structure	0.114111
+Fantail_08-GBS	Fantail	Structure	0.131083
+Fantail_09-GBS	Fantail	Structure	0.129662
+Fantail_10-GBS	Fantail	Structure	0.152723
+Fantail_11-GBS	Fantail	Structure	0.13767
+Fantail_12-GBS	Fantail	Structure	0.131634
+Fantail_13-GBS	Fantail	Structure	0.140114
+Fantail_14-GBS	Fantail	Structure	0.120081
+Fantail_15-GBS	Fantail	Structure	0.126629
+Fantail_16-GBS	Fantail	Structure	0.0995556
+FeralUT_01-WGS	Ferals	Ferals	0.232396
+FeralVA_01-WGS	Ferals	Ferals	0.229914
+Frillback_01-WGS	Frillback	Structure	0.150409
+Frillback_02-GBS	Frillback	Structure	0.147006
+Medium-facedCrestedHelmet_01-GBS	Medium-faced Crested Helmet	Tumblers, Rollers & High Flyers	0.146901
+Medium-facedCrestedHelmet_02-GBS	Medium-faced Crested Helmet	Tumblers, Rollers & High Flyers	0.158827
+Medium-facedCrestedHelmet_03-GBS	Medium-faced Crested Helmet	Tumblers, Rollers & High Flyers	0.147076
+Medium-facedCrestedHelmet_04-GBS	Medium-faced Crested Helmet	Tumblers, Rollers & High Flyers	0.155026
+Medium-facedCrestedHelmet_05-GBS	Medium-faced Crested Helmet	Tumblers, Rollers & High Flyers	0.154326
+Medium-facedCrestedHelmet_06-GBS	Medium-faced Crested Helmet	Tumblers, Rollers & High Flyers	0.152166
+HolleCropper_01-GBS	Holle Cropper	Croppers & Pouters	0.102529
+HolleCropper_02-GBS	Holle Cropper	Croppers & Pouters	0.160356
+HorsemanPouter_01-GBS	Horseman Pouter	Croppers & Pouters	0.209881
+IcePigeon_01-WGS	Ice Pigeon	Color	0.170016
+IndianFantail_01-WGS	Indian Fantail	Structure	0.143613
+IndianFantail_02-WGS	Indian Fantail	Structure	0.177694
+IndianFantail_03-GBS	Indian Fantail	Structure	0.110982
+IndianFantail_04-GBS	Indian Fantail	Structure	0.148479
+IndianFantail_05-GBS	Indian Fantail	Structure	0.167401
+IndianFantail_06-GBS	Indian Fantail	Structure	0.137553
+IndianFantail_07-GBS	Indian Fantail	Structure	0.164017
+IndianFantail_08-GBS	Indian Fantail	Structure	0.162262
+IndianFantail_09-GBS	Indian Fantail	Structure	0.158897
+IndianFantail_10-GBS	Indian Fantail	Structure	0.161905
+IndianFantail_11-GBS	Indian Fantail	Structure	0.158896
+IndianFantail_12-GBS	Indian Fantail	Structure	0.159499
+IndianFantail_13-GBS	Indian Fantail	Structure	0.16466
+IndianFantail_14-GBS	Indian Fantail	Structure	0.181601
+IndianFantail_15-GBS	Indian Fantail	Structure	0.141865
+IndianFantail_16-GBS	Indian Fantail	Structure	0.111795
+IndianFantail_17-GBS	Indian Fantail	Structure	0.148578
+IndianFantail_18-GBS	Indian Fantail	Structure	0.167225
+IndianFantail_19-GBS	Indian Fantail	Structure	0.16181
+IndianFantail_20-GBS	Indian Fantail	Structure	0.160525
+IranianTumbler_01-WGS	Iranian Tumbler	Non-NPA Breeds	0.178834
+IranianTumbler_02-GBS	Iranian Tumbler	Non-NPA Breeds	0.175562
+ItalianOwl_01-GBS	Italian Owl	Owls & Frills	0.198695
+ItalianOwl_02-GBS	Italian Owl	Owls & Frills	0.196903
+ItalianOwl_03-GBS	Italian Owl	Owls & Frills	0.1579
+Jacobin_01-WGS	Jacobin	Structure	0.0678518
+Jacobin_02-GBS	Jacobin	Structure	0.211076
+Jacobin_03-GBS	Jacobin	Structure	0.0889982
+King_01-WGS	King	Form	0.194517
+King_02-GBS	King	Form	0.177971
+King_03-GBS	King	Form	0.195537
+Lahore_01-WGS	Lahore	Form	0.160348
+Lahore_02-GBS	Lahore	Form	0.145445
+Laugher_01-WGS	Laugher	Trumpeter	0.121492
+Lebanon_01-WGS	Lebanon	Syrian	0.160363
+Lebanon_02-GBS	Lebanon	Syrian	0.119803
+Maltese_01-GBS	Maltese	Form	0.20805
+MarcheneroPouter_01-WGS	Marchenero Pouter	Croppers & Pouters	0.0932708
+MindianFantail_02-GBS	Mindian Fantail	Non-NPA Breeds	0.167517
+MindianFantail_03-GBS	Mindian Fantail	Non-NPA Breeds	0.124594
+Mookee_01-WGS	Mookee	Tumblers, Rollers & High Flyers	0.157746
+Mookee_02-GBS	Mookee	Tumblers, Rollers & High Flyers	0.20736
+Mookee_03-GBS	Mookee	Tumblers, Rollers & High Flyers	0.179788
+OldDutchCapuchine_01-GBS	Old Dutch Capuchine	Structure	0.112236
+OldDutchCapuchine_02-GBS	Old Dutch Capuchine	Structure	0.167826
+OldDutchCapuchine_03-GBS	Old Dutch Capuchine	Structure	0.18512
+OldDutchCapuchine_04-GBS	Old Dutch Capuchine	Structure	0.157723
+OldGermanOwl_01-GBS	Old German Owl	Owls & Frills	0.167863
+OldGermanOwl_02-GBS	Old German Owl	Owls & Frills	0.194589
+OldGermanOwl_03-GBS	Old German Owl	Owls & Frills	0.141202
+OrientalFrill_01-WGS	Oriental Frill	Owls & Frills	0.083372
+OrientalRoller_01-WGS	Oriental Roller	Tumblers, Rollers & High Flyers	0.114584
+OrientalRoller_02-GBS	Oriental Roller	Tumblers, Rollers & High Flyers	0.102175
+OrientalRoller_03-GBS	Oriental Roller	Tumblers, Rollers & High Flyers	0.114092
+OrientalRoller_04-GBS	Oriental Roller	Tumblers, Rollers & High Flyers	0.144762
+OrientalRoller_05-GBS	Oriental Roller	Tumblers, Rollers & High Flyers	0.128649
+OrientalRoller_06-GBS	Oriental Roller	Tumblers, Rollers & High Flyers	0.168199
+OrientalRoller_07-GBS	Oriental Roller	Tumblers, Rollers & High Flyers	0.152706
+ParlorRoller_01-WGS	Parlor Roller	Tumblers, Rollers & High Flyers	0.09413
+ParlorRoller_02-GBS	Parlor Roller	Tumblers, Rollers & High Flyers	0.0986411
+ParlorRoller_04-GBS	Parlor Roller	Tumblers, Rollers & High Flyers	0.101495
+PolishLynx_01-GBS	Polish Lynx	Form	0.238891
+PomeranianPouter_01-GBS	Pomeranian Pouter	Croppers & Pouters	0.137234
+PomeranianPouter_02-GBS	Pomeranian Pouter	Croppers & Pouters	0.184984
+PortugueseTumbler_01-GBS	Portuguese Tumbler	Tumblers, Rollers & High Flyers	0.152901
+PortugueseTumbler_02-GBS	Portuguese Tumbler	Tumblers, Rollers & High Flyers	0.154715
+PortugueseTumbler_03-GBS	Portuguese Tumbler	Tumblers, Rollers & High Flyers	0.120757
+PygmyPouter_01-GBS	Pygmy Pouter	Croppers & Pouters	0.125155
+Racing Homer_01-WGS	Racing Homer	Form	0.211861
+Racing Homer_02-WGS	Racing Homer	Form	0.19696
+Racing Homer_03-GBS	Racing Homer	Form	0.163861
+Racing Homer_04-WGS	Racing Homer	Form	0.197549
+Racing Homer_05-WGS	Racing Homer	Form	0.210394
+Racing Homer_06-WGS	Racing Homer	Form	0.211756
+Racing Homer_07-WGS	Racing Homer	Form	0.206643
+Racing Homer_08-WGS	Racing Homer	Form	0.197357
+Racing Homer_09-WGS	Racing Homer	Form	0.208178
+Racing Homer_10-WGS	Racing Homer	Form	0.21466
+Racing Homer_11-WGS	Racing Homer	Form	0.201115
+Runt_01-WGS	Runt	Form	0.216585
+SaxonFairySwallow_01-GBS	Saxon Fairy Swallow	Non-NPA Breeds	0.167962
+SaxonMonk_01-WGS	Saxon Monk	Color	0.194346
+SaxonPouter_01-WGS	Saxon Pouter	Croppers & Pouters	0.165118
+Scandaroon_01-WGS	Scandaroon	Wattle	0.111174
+Scandaroon_02-GBS	Scandaroon	Wattle	0.122867
+SchmalkaldenerMohrenkopf_01-GBS	Schmalkaldener Mohrenkopf	Structure	0.164318
+Shakhsharli_01-WGS	Shakhsharli	Syrian	0.0852834
+ShowTypeHomer_01-GBS	Show Type Homer	Form	0.176498
+ShowTypeHomer_02-GBS	Show Type Homer	Form	0.177201
+ShowTypeHomer_03-GBS	Show Type Homer	Form	0.189893
+SpanishBarb_01-WGS	Spanish Barb	Wattle	0.159784
+Starling_01-WGS	Starling	Color	0.239506
+Starling_02-GBS	Starling	Color	0.156169
+Starling_03-GBS	Starling	Color	0.224011
+Starling_04-GBS	Starling	Color	0.236575
+Starling_05-GBS	Starling	Color	0.22196
+SyrianDewlap_01-WGS	Syrian Dewlap	Syrian	0.174955
+TemescheburgerSchecken_01-GBS	Temescheburger Schecken	Tumblers, Rollers & High Flyers	0.0687714
+ThuringerCleanLeg_01-GBS	Thuringer Clean Leg	Color	0.0853488
+VoorburgShieldCropper_01-GBS	Voorburg Shield Cropper	Croppers & Pouters	0.145251
+VoorburgShieldCropper_02-GBS	Voorburg Shield Cropper	Croppers & Pouters	0.139589
+VoorburgShieldCropper_03-GBS	Voorburg Shield Cropper	Croppers & Pouters	0.160159
+West of England Tumbler_01-GBS	West of England Tumbler	Tumblers, Rollers & High Flyers	0.163893
+West of England Tumbler_02-GBS	West of England Tumbler	Tumblers, Rollers & High Flyers	0.185656
+West of England Tumbler_03-GBS	West of England Tumbler	Tumblers, Rollers & High Flyers	0.169038
+West of England Tumbler_04-GBS	West of England Tumbler	Tumblers, Rollers & High Flyers	0.188107
+West of England Tumbler_05-GBS	West of England Tumbler	Tumblers, Rollers & High Flyers	0.161187
+West of England Tumbler_06-GBS	West of England Tumbler	Tumblers, Rollers & High Flyers	0.227375
+West of England Tumbler_07-GBS	West of England Tumbler	Tumblers, Rollers & High Flyers	0.144572
+West of England Tumbler_08-GBS	West of England Tumbler	Tumblers, Rollers & High Flyers	0.172218
