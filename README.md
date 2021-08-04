@@ -4,7 +4,6 @@
 
 - Please visit the [Wiki page](https://github.com/g-pacheco/PigeonBreedsGenomics/wiki) for detailed information on the individual analyses.
 ***
-***
 
 #### Purebread fancy pigeon individual belonging to the _English Carrier_ breed.
 ![](https://github.com/g-pacheco/PigeonBreedsGenomics/blob/main/PBG--Pipeline/PBG--GitHubAuxiliaryFiles/PBG--RepositoryImage.jpg)
